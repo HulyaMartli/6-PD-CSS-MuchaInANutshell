@@ -35,8 +35,8 @@ Mucha is one of the painters I love, so I created a page including brief info ab
 ### Tools
 
 - [Canva](https://www.canva.com/)
-- [Color Hunt - Color Palette-1](https://colorhunt.co/palette/a0937de7d4b5f6e6cbe3cdc1), [Color Hunt - Color Palette-2]()
-- [Google Fonts - Montserrat Light 300](https://colorhunt.co/palette/556052af6b58cbbcb1f2efea)
+- [Color Hunt - Color Palette-1](https://colorhunt.co/palette/a0937de7d4b5f6e6cbe3cdc1), [Color Hunt - Color Palette-2](https://colorhunt.co/palette/556052af6b58cbbcb1f2efea)
+- [Google Fonts - Montserrat Light 300](https://fonts.google.com/specimen/Montserrat)
 
 ## License
 
