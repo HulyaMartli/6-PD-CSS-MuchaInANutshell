@@ -1,0 +1,155 @@
+/*************** LAYOUT ***************/
+
+body {
+    background-color: #F2EFEA;
+    color: #556052;
+    font-size: 1.5em;
+    border-color: #CBBCB1;
+    border-style: solid;
+    display: -webkit-inline-flex;
+    font-family: 'Montserrat', sans-serif;
+    text-align: left;
+    width: 100%;
+    float: right;
+}
+
+.link-green {
+    color: #97C4A9;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 0.7em;
+}
+
+/*************** HOME PAGE ***************/
+
+.article-1 {
+    width: 100%;
+    margin: 20px;
+}
+
+.p-quote {
+    text-align: left;
+    font-size: 1.5em;
+}
+
+q {
+    font-size: 1.5em;
+    text-align: left;
+}
+
+
+/*************** SIDE BAR ***************/
+
+.sidebar {
+    margin-left: 20px;
+    background-color: #CBBCB1;
+    width: 38%;
+    text-align: center;
+    font-size: larger;
+}
+
+h2 {
+    margin-top: -40px;
+    margin-bottom: -1px;
+}
+
+.dividers {
+    border-color: #EBE0BD;
+    border-style: double;
+    width: 90%
+}
+
+.link-red {
+    color: #AF6B58;
+    font-weight: bold;
+}
+
+.no-bullet {
+    list-style: none;
+    margin-left: -40px;
+    margin-top: 30px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.sidebar-p {
+    color: #EBE0BD;
+    font-size: 0.7em;
+}
+
+.side-img {
+    max-width: 70%;
+
+}
+
+.guerillagi-logo {
+    width: 70%;
+    max-width: 200px;
+}
+
+/*************** WORKS.HTML PAGE ***************/
+
+
+.workpage-images {
+    width: 14%;
+    padding: 1.5%;
+    max-width: 200px;
+}
+
+.workpage-imagebox {
+    float: right;
+    width: 100%;
+    display: contents;
+}
+
+.workpage-section {
+    text-align: center;
+    width: 100%;
+}
+
+/*************** SOURCES.HTML PAGE ***************/
+
+.link-green-sources {
+    color: #97C4A9;
+}
+
+/*************** GENERAL VISUALS  ***************/
+
+figcaption {
+    position: relative;
+    font-size: 0.9em;
+}
+
+.figure-1 {
+    text-align: center;
+    border: solid thin #E3CDC1;
+    max-width: 60%;
+    float: left;
+    margin-left: 0px;
+    margin-right: 20px;
+
+}
+
+.figure-2 {
+    text-align: center;
+    border: solid thin #E3CDC1;
+    padding: 0.1em;
+    max-width: 20%;
+    float: right;
+}
+
+
+.img-1 {
+    width: 100%;
+    max-height: 50%;
+}
+
+.img-2 {
+    width: 100%;
+}
+
+.img-3 {
+    width: 100%;
+}
